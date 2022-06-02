@@ -16,3 +16,5 @@ if(imc <= 18.5){
 }else{
     alert("obesidade grau III");
 }
+
+/* o alert correspondente a esse peso e altura é ("peso normal")*/
